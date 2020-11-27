@@ -1,5 +1,3 @@
-20201104test
-
 #include <iostream>
 using namespace std;
 
